@@ -6,4 +6,5 @@
 
 ### Ideas:
 1. party game
+2. Moon as a God/Mythology based to deviate from space games
 test
